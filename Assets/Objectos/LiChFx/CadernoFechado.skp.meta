@@ -1,0 +1,217 @@
+fileFormatVersion: 2
+guid: 1565aa01eaf5c5642abefb3859ae5885
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 1532c6fb4e8d205a59b82553131cbcd2
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: -0.2618598, y: 9.500832, z: -4.0596232}
+      lookAt: {x: 0.17126638, y: -12.155992, z: 7.471868}
+      up: {x: 0.033124868, y: 0.4702493, z: 0.8819118}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Bravo
+    100002: Bravo 1
+    100004: Bravo 2
+    100006: //RootNode
+    100008: Group 1
+    100010: Group 12
+    100012: Group 4
+    100014: Group 8
+    100016: Image 3
+    400000: Bravo
+    400002: Bravo 1
+    400004: Bravo 2
+    400006: //RootNode
+    400008: Group 1
+    400010: Group 12
+    400012: Group 4
+    400014: Group 8
+    400016: Image 3
+    2100000: _defaultMat
+    2100002: '[0137_Black]'
+    2100004: '[0128_White]'
+    2100006: '[0006_Pink]'
+    2100008: '[0020_Red]'
+    2100010: Material 5
+    2100012: '[0136_Charcoal]'
+    2100014: '[Translucent_Glass_Gray]'
+    2100016: '[0135_DarkGray]'
+    2100018: '[0020_Red]1'
+    2100020: '[0103_Blue]'
+    2300000: Bravo
+    2300002: Bravo 1
+    2300004: Bravo 2
+    2300006: Group 1
+    2300008: Group 12
+    2300010: Group 4
+    2300012: Group 8
+    2300014: Image 3
+    3300000: Bravo
+    3300002: Bravo 1
+    3300004: Bravo 2
+    3300006: Group 1
+    3300008: Group 12
+    3300010: Group 4
+    3300012: Group 8
+    3300014: Image 3
+    4300000: Mesh Group 1
+    4300002: Mesh Group 1
+    4300004: Mesh Group 4
+    4300006: Mesh Bravo
+    4300008: Mesh Group 8
+    4300010: Mesh Group 12
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material 5
+    second: {fileID: 2100000, guid: 62d87947f051395429ce1275952b40af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0006_Pink]'
+    second: {fileID: 2100000, guid: da63eec8f67a68541b9efd2b238dd27e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0020_Red]'
+    second: {fileID: 2100000, guid: 720bb72776287ba40af8f8b07b136ead, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0020_Red]1'
+    second: {fileID: 2100000, guid: 6aba07f39b67352429dc0eda3992da05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0103_Blue]'
+    second: {fileID: 2100000, guid: 899c8f0ffb8f19d43b812a0c55f77d9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0128_White]'
+    second: {fileID: 2100000, guid: bcebe31693558b24d85391e502adbf12, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0135_DarkGray]'
+    second: {fileID: 2100000, guid: 019867d003e6a1a4fb434b09c723793a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0136_Charcoal]'
+    second: {fileID: 2100000, guid: 3c166d8333f67f043afe4cb8d44b6c7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0137_Black]'
+    second: {fileID: 2100000, guid: 6cfda1d56a5ffa945a42ff2e14a7ac5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Translucent_Glass_Gray]'
+    second: {fileID: 2100000, guid: ac00e1f322128564981956733ae15915, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: _defaultMat
+    second: {fileID: 2100000, guid: 0b9ad3f2697bae6479b759918ad07fa0, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,156 @@
+fileFormatVersion: 2
+guid: c241541de39ef9148b018ad380398cc0
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 000000000100000002000000030000000400000005000000060000000700000008000000090000000a000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 9b126dac88990a9cd21657ed3a41cfb8
+  longitude: -105.283
+  latitude: 40.017
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 14.851813, y: 6.5679245, z: 13.75354}
+      lookAt: {x: -47.060646, y: -13.309005, z: -43.97125}
+      up: {x: -0.16720058, y: 0.97352034, z: -0.15589136}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: ficha de
+    100002: //RootNode
+    100004: Group 1
+    100006: Obtenha essa fic
+    100008: pagamento.
+    100010: pago!#1
+    400000: ficha de
+    400002: //RootNode
+    400004: Group 1
+    400006: Obtenha essa fic
+    400008: pagamento.
+    400010: pago!#1
+    2100000: '[Gold]'
+    2100002: '[0046_Gold]'
+    2100004: '[0098_DodgerBlue]'
+    2300000: ficha de
+    2300002: Group 1
+    2300004: Obtenha essa fic
+    2300006: pagamento.
+    2300008: pago!#1
+    3300000: ficha de
+    3300002: Group 1
+    3300004: Obtenha essa fic
+    3300006: pagamento.
+    3300008: pago!#1
+    4300000: Mesh Group 1
+    4300002: Mesh ficha de
+    4300004: Mesh pago!#1
+    4300006: Mesh Obtenha essa fic
+    4300008: Mesh pagamento.
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0046_Gold]'
+    second: {fileID: 2100000, guid: 75b77ad4a9fb56749a83f74a657426c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[0098_DodgerBlue]'
+    second: {fileID: 2100000, guid: c487a9e1ed4333f41a5f06dd9a0c7c44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: '[Gold]'
+    second: {fileID: 2100000, guid: b7f0dc09041776b489e8d31dd528e4a9, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
